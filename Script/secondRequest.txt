@@ -1,0 +1,7 @@
+POST 
+https://echo.free.beeceptor.com/sample-request?author=beeceptor
+Host: echo.free.beeceptor.com
+Content-Type: application/json
+Content-Length: 66
+
+{"name": {"name1": "Someone Else","name2": "Someone Else1"}, "age": 123, "city": "Bangkok"}
